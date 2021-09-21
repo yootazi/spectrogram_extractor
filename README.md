@@ -1,5 +1,5 @@
-# spectrogram_extractor
-# **Extracting Spectrograms from an Audio Dataset located in Google Drive**
+# Spectrogram Extractor
+## **Extracting Spectrograms from an Audio Dataset located in Google Drive**
 
 ---
 
